@@ -2,3 +2,5 @@
 /data/database.sqlite
 .idea/
 .DS_Store
+.postman/
+postman/
